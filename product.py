@@ -1,4 +1,3 @@
-#chalenge - unit-3
 def linearSearchProduct(productList, targetProduct):
   indices = []
 
